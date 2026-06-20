@@ -1,0 +1,8 @@
+# Ignore all JSON files
+*.json
+
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
